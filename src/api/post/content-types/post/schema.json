@@ -18,11 +18,14 @@
     "slug": {
       "type": "uid"
     },
-    "content": {
+    "caption": {
       "type": "text"
     },
     "isPublish": {
       "type": "boolean"
+    },
+    "photo": {
+      "type": "string"
     }
   }
 }
