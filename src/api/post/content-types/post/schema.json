@@ -26,6 +26,9 @@
     },
     "photo": {
       "type": "string"
+    },
+    "postedBy": {
+      "type": "string"
     }
   }
 }
